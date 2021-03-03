@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Licenser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LicenseContent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;License&gt;
+  &lt;Id&gt;decae066-5903-4eb0-92be-e30d3f643990&lt;/Id&gt;
+  &lt;Type&gt;Standard&lt;/Type&gt;
+  &lt;Signature&gt;{0}&lt;/Signature&gt;
+&lt;/License&gt;</Value>
+    </Setting>
+    <Setting Name="PublicKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MIIBKjCB4wYHKoZIzj0CATCB1wIBATAsBgcqhkjOPQEBAiEA/////wAAAAEAAAAAAAAAAAAAAAD///////////////8wWwQg/////wAAAAEAAAAAAAAAAAAAAAD///////////////wEIFrGNdiqOpPns+u9VXaYhrxlHQawzFOw9jvOPD4n0mBLAxUAxJ02CIbnBJNqZnjhE50mt4GffpAEIQNrF9Hy4SxCR/i85uVjpEDydwN9gS3rM6D0oTlF2JjClgIhAP////8AAAAA//////////+85vqtpxeehPO5ysL8YyVRAgEBA0IABH+/L9yIiGzv7O5yqF4tsHtriSqV+6aZlrTI9L1OPIjZuncEdJZQ719QRhDjyv9X2X93qpYa45ZMDuCm+iSh1oc=</Value>
+    </Setting>
+    <Setting Name="Signature" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MEYCIQD9eX0ZPXSdwHB9XIGLr2goTZDOslymftbwTnpHRhbd0AIhAJ76sgO1MKi7ZK0x3JxXBRtXK2isCsLeY25avd16Q732</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
